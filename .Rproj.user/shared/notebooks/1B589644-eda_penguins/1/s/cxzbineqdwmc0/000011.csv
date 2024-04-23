@@ -1,3 +1,4 @@
+"0","quit"
 "0","install.packages(""dplyr"")"
 "1","The following package(s) will be installed:
 "
@@ -15,7 +16,7 @@
 "1","- Installing dplyr ...                          "
 "1","OK [linked from cache]
 "
-"1","Successfully installed 1 package in 9.9 milliseconds.
+"1","Successfully installed 1 package in 9.8 milliseconds.
 "
 "0","install.packages(""ggplot2"")"
 "1","The following package(s) will be installed:
@@ -34,7 +35,7 @@
 "1","- Installing ggplot2 ...                        "
 "1","OK [linked from cache]
 "
-"1","Successfully installed 1 package in 7.1 milliseconds.
+"1","Successfully installed 1 package in 8.1 milliseconds.
 "
 "0","library(palmerpenguins)"
 "0","library(dplyr)"

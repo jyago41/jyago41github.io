@@ -1,11 +1,6 @@
 "0","import duckdb"
 "0","con = duckdb.connect('my-db.duckdb')"
 "0","df = con.execute(""SELECT * FROM penguins"").fetchdf().dropna()"
-"2","Traceback (most recent call last):
-  File ""<string>"", line 1, in <module>
-duckdb.duckdb.InvalidInputException: Invalid Input Error: Python Object ""penguins"" of type ""module"" found on line ""<string>:1"" not suitable for replacement scans.
-Make sure that ""penguins"" is either a pandas.DataFrame, duckdb.DuckDBPyRelation, pyarrow Table, Dataset, RecordBatchReader, Scanner, or NumPy ndarrays with supported format
-"
 "0","con.close()"
 "0",""
 "0","df.head(3)"

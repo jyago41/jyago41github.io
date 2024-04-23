@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "Penguins_eda.html",
+    "href": "Penguins_eda.html",
+    "title": "Penguins Website",
+    "section": "",
+    "text": "install.packages(\"renv\")\n\nThe following package(s) will be installed:\n- renv [1.0.7]\nThese packages will be installed into \"~/Final Project/renv/library/R-4.3/aarch64-apple-darwin20\".\n\n# Installing packages --------------------------------------------------------\n- Installing renv ...                           OK [linked from cache]\nSuccessfully installed 1 package in 6.2 milliseconds.\n\n\n\nrenv::init()\n\n- The project is out-of-sync -- use `renv::status()` for details.\n\n\n\nrenv::activate()\n\n\ninstall.packages(\"reticulate\")\n\nThe following package(s) will be installed:\n- reticulate [1.36.1]\nThese packages will be installed into \"~/Final Project/renv/library/R-4.3/aarch64-apple-darwin20\".\n\n# Installing packages --------------------------------------------------------\n- Installing reticulate ...                     OK [linked from cache]\nSuccessfully installed 1 package in 2.4 milliseconds.\n\ninstall.packages(\"palmerpenguins\")\n\nThe following package(s) will be installed:\n- palmerpenguins [0.1.1]\nThese packages will be installed into \"~/Final Project/renv/library/R-4.3/aarch64-apple-darwin20\".\n\n# Installing packages --------------------------------------------------------\n- Installing palmerpenguins ...                 OK [linked from cache]\nSuccessfully installed 1 package in 2.4 milliseconds."
+  }
+]
