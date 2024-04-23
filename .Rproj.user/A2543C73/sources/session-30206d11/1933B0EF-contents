@@ -7,7 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: model_db.qmd
+      - href: model_basic.qmd
         text: Model
     right:
       - href: eda_db.qmd
