@@ -3,7 +3,7 @@
     "path": "~/Final Project/vetiver.qmd",
     "project_path": "vetiver.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "3263885561",
     "contents": "",
     "dirty": false,
     "created": 1713745012866.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "63,0",
+        "cursorPosition": "71,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "1241:953"
     },
     "folds": "",
-    "lastKnownWriteTime": 1713800784,
+    "lastKnownWriteTime": 1713888337,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1713884014338,
+    "last_content_update": 1713888337481,
     "read_only": false,
     "read_only_alternatives": []
 }

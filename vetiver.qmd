@@ -54,8 +54,8 @@ v = VetiverModel(model, model_name='penguin_model', prototype_data=X)
 from pins import board_folder
 from vetiver import vetiver_pin_write
 
-model_board = board_folder("data/model", allow_pickle_read = True)
-vetiver_pin_write(model_board, v)
+#model_board = board_folder("data/model", allow_pickle_read = True)
+#vetiver_pin_write(model_board, v)
 
 ```
 
@@ -65,11 +65,11 @@ vetiver_pin_write(model_board, v)
 from vetiver import VetiverAPI
 app = VetiverAPI(v, check_prototype = True)
 
-if __name__ == "__main__":
-  app.run(port=8080)
+#if __name__ == "__main__":
+#  app.run(port=8080)
 ```
 
 ```{python}
 from vetiver import prepare_docker
-prepare_docker(model_board, 'penguin_model')
+#prepare_docker(model_board, 'penguin_model')
 ```
