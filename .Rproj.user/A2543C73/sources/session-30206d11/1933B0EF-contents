@@ -10,7 +10,7 @@ website:
       - href: basic_model.qmd
         text: Model
     right:
-      - href: eda_db.qmd
+      - href: eda_penguins.qmd
         text: Visual
  
 format:
