@@ -1,0 +1,14 @@
+install.packages("renv")
+renv::init()
+renv::activate()
+renv::activate()
+install.packages("pandas")
+install.packages("Pandas")
+install.packages("numpy")
+install.packages("reticulate")
+library(reticulate)
+use_python("C:/usr/bin/python3")  # Adjust the path as necessary
+library(reticulate)
+use_python("C:/usr/local/bin/python3")  # Adjust the path as necessary
+library(reticulate)
+use_python("C:/Users/joshyago/.venv/bin/python")  # Adjust the path as necessary

@@ -1,0 +1,28 @@
+"0","from vetiver import VetiverAPI"
+"0","app = VetiverAPI(v, check_prototype = True)"
+"0",""
+"0","if __name__ == ""__main__"":"
+"0","  app.run(port=8080)"
+"0",""
+"2","INFO:     Started server process [48125]
+"
+"2","INFO:     Waiting for application startup.
+"
+"2","INFO:     VetiverAPI starting...
+"
+"2","INFO:     Application startup complete.
+"
+"2","INFO:     Uvicorn running on http://127.0.0.1:8080 (Press CTRL+C to quit)
+"
+"2","INFO:     Shutting down
+"
+"2","INFO:     Waiting for application shutdown.
+"
+"2","INFO:     Application shutdown complete.
+INFO:     Finished server process [48125]
+"
+"2","XXX lineno: 729, opcode: 150
+"
+"2","Error in repl() : 
+  Exception raised by 'inspect.getmro(<pyobj>)'; unable to build R 'class' attribute
+"
