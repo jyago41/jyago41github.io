@@ -1,10 +1,5 @@
 ---
-title: "Final Project"
+title: "Josh Yago's Final Project"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-```
+This is my final project website and I am very glad this website actually works.
