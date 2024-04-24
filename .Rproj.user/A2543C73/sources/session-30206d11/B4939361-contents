@@ -34,7 +34,19 @@ model = LinearRegression().fit(X, y)
 
 ```{python}
 print(f"R^2 {model.score(X,y)}")
+
+
+```
+
+```{python}
 print(f"Intercept {model.intercept_}")
+
+```
+
+```{python}
 print(f"Columns {X.columns}")
+```
+
+```{python}
 print(f"Coefficients {model.coef_}")
 ```

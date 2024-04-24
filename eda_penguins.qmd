@@ -8,8 +8,8 @@ format:
 ## Penguin Size and Mass by Sex and Species
 
 ```{r}
-install.packages("dplyr")
-install.packages("ggplot2")
+#install.packages("dplyr")
+#install.packages("ggplot2")
 library(palmerpenguins)
 library(dplyr)
 library(ggplot2)
