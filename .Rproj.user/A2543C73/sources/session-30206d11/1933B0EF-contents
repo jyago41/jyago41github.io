@@ -7,9 +7,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: basic_model.qmd
+      - href: vetiver.qmd
         text: Model
-      - href: eda_penguins.qmd
+      - href: eda-db.qmd
         text: Visual
  
 format:
