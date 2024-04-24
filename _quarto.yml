@@ -9,7 +9,6 @@ website:
         text: Home
       - href: basic_model.qmd
         text: Model
-    right:
       - href: eda_penguins.qmd
         text: Visual
  
