@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Final Project",
+    "title": "Josh Yago’s Final Project",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is my final project website and I am very glad this website actually works."
   },
   {
     "objectID": "eda-db.html",
@@ -32,7 +32,7 @@
     "href": "Penguins_eda.html",
     "title": "Penguins Website",
     "section": "",
-    "text": "install.packages(\"renv\")\n\nThe following package(s) will be installed:\n- renv [1.0.7]\nThese packages will be installed into \"~/work/jyago41github.io/jyago41github.io/renv/library/R-4.2/x86_64-pc-linux-gnu\".\n\n# Installing packages --------------------------------------------------------\n- Installing renv ...                           OK [linked from cache]\nSuccessfully installed 1 package in 8.8 milliseconds.\n\n\n\nrenv::init()\n\n- The project is out-of-sync -- use `renv::status()` for details.\n\n\n\nrenv::activate()\n\n\ninstall.packages(\"reticulate\")\n\nThe following package(s) will be installed:\n- reticulate [1.36.1]\nThese packages will be installed into \"~/work/jyago41github.io/jyago41github.io/renv/library/R-4.2/x86_64-pc-linux-gnu\".\n\n# Installing packages --------------------------------------------------------\n- Installing reticulate ...                     OK [linked from cache]\nSuccessfully installed 1 package in 4.7 milliseconds.\n\ninstall.packages(\"palmerpenguins\")\n\nThe following package(s) will be installed:\n- palmerpenguins [0.1.1]\nThese packages will be installed into \"~/work/jyago41github.io/jyago41github.io/renv/library/R-4.2/x86_64-pc-linux-gnu\".\n\n# Installing packages --------------------------------------------------------\n- Installing palmerpenguins ...                 OK [linked from cache]\nSuccessfully installed 1 package in 4.5 milliseconds."
+    "text": "install.packages(\"renv\")\n\nThe following package(s) will be installed:\n- renv [1.0.7]\nThese packages will be installed into \"~/work/jyago41github.io/jyago41github.io/renv/library/R-4.2/x86_64-pc-linux-gnu\".\n\n# Installing packages --------------------------------------------------------\n- Installing renv ...                           OK [linked from cache]\nSuccessfully installed 1 package in 9.2 milliseconds.\n\n\n\nrenv::init()\n\n- The project is out-of-sync -- use `renv::status()` for details.\n\n\n\nrenv::activate()\n\n\ninstall.packages(\"reticulate\")\n\nThe following package(s) will be installed:\n- reticulate [1.36.1]\nThese packages will be installed into \"~/work/jyago41github.io/jyago41github.io/renv/library/R-4.2/x86_64-pc-linux-gnu\".\n\n# Installing packages --------------------------------------------------------\n- Installing reticulate ...                     OK [linked from cache]\nSuccessfully installed 1 package in 4.6 milliseconds.\n\ninstall.packages(\"palmerpenguins\")\n\nThe following package(s) will be installed:\n- palmerpenguins [0.1.1]\nThese packages will be installed into \"~/work/jyago41github.io/jyago41github.io/renv/library/R-4.2/x86_64-pc-linux-gnu\".\n\n# Installing packages --------------------------------------------------------\n- Installing palmerpenguins ...                 OK [linked from cache]\nSuccessfully installed 1 package in 4.4 milliseconds."
   },
   {
     "objectID": "model_db.html",
